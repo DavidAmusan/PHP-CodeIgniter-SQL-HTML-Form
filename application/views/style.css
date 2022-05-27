@@ -1,0 +1,89 @@
+*{
+    padding:0;
+    margin:0;
+    box-sizing: border-box;
+}
+
+#register-container{
+    margin: 30px auto;
+    padding: 50px 0px;
+    max-width: 400px;
+}
+.form-wrap #surname{
+    float: right;
+    width: 45%;
+}
+.form-wrap #firstname{
+    float: left;
+    width: 45%
+}
+
+.form-wrap #age{
+    float: left;
+    width: 45%;}
+
+.form-wrap #race{
+        float: right;
+        width: 45%;
+}
+
+.form-wrap #phoneNo{
+        float: left;
+        width: 45%;
+}
+.form-wrap #email{
+        float: right;
+        width: 45%;
+}
+/*Log in Page*/
+#container{
+    margin: 200px auto;
+    padding: 20px;
+    max-width: 400px;
+}
+
+.form-wrap{
+    background-color: #fff;
+    padding: 15px 20px;
+    color: #333;
+    overflow: auto;
+
+    
+}
+
+ .form-wrap h1,.form-wrap p{
+    text-align: center;
+    padding: 5px;
+
+}
+
+.form-wrap input{  
+width: 100%;
+padding: 10px;
+border-radius: 10px;
+margin: 7px 0px;
+}
+
+.form-wrap button{
+    width: 100%;
+    padding: 10px;
+    border: solid #f4f4f4;
+    border-radius: 10px;
+    margin: 7px 0px;
+    background-color: #49c1a2;
+    cursor: pointer;
+}
+
+.form-wrap button:hover{
+    background: #37a08e;
+}
+
+a:link{
+    text-decoration: none;
+    width: 100%;
+    padding: 10px;
+    border-radius: 10px;
+    margin: 7px 0px;
+    cursor: pointer;
+    
+}

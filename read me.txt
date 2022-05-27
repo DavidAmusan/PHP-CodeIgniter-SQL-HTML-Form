@@ -1,0 +1,10 @@
+﻿Please open the folder using VS code
+
+
+The php files containing html are stored in the views folder, and the files containing the php back end code is stored in the controllers folder.
+
+
+I used the XAMPP server to create my database. My database is called register and the table is called ‘User’. I created fields for firstname, ‘firstname, Surname, ‘surname’, Race, ‘race’, Age, ‘age’, Phone Number, ‘phoneNo’, Email, ‘email’ ,Username, ‘username’, and Password, ‘password’. Creating a database with these values will link the database to the php code. 
+
+
+The php files for authentication are stored in the auth.php file in the controller for the login and register pages. And the user.php file for the profile pages. There are comments within this code to explain the workings of it. Thank you
